@@ -1,0 +1,33 @@
+historia del lenguaje 
+
+
+lo que se: lenguaje complido y fuertemente tipado, que fue desarrollado despues de otros lenguajes de programacion como A y B
+La mayoria de los lenguajes de programacion actuales estan basados en c
+Se usa para el desarrollo de sistemas operativos, el kernel de GNU/Linux estan escritos en lenguaje C
+Los creadores fueron Denis Richie y Brian Kernighan
+
+¿que?
+Es un lenguaje de programacion (considerado) el más importante en la actualidad con el cual se desarrollan tanto aplicaciones como sitemas operativos a la vez que forman las base de otros lenguajes mas actuales como java, c++ o c#   #
+Orientado a sistemas operativos UNIX
+
+¿¿Quien?
+Denis Richie y Brian Kernighan
+
+¿Como?
+El desarrollo inicial se dio en los laboratorios de bell de AT&T entre 1969 y 1972 se le dio el nombre de C porque muchas caracteristicas fueron tomadas de un lenguaje anterior llamado B
+Sistema operativo que pudiera evolucionar
+
+¿Donde? 
+En los laboratorio de Bell de AT&T
+
+Ejemplo Hola Mundo
+
+
+hola_mundo.c
+
+include <stdio.h>
+int main(){
+	printf("Hola mundo");
+ 	return0;
+}
+
