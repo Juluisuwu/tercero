@@ -31,7 +31,14 @@ int main()
         printf("%s\n",fec_act.mes);
         printf("%d\n",fec_act.anio);
 
-	//getch();
+	if(usuario.genero == 'F')
+	{
+			printf("\nEl genero es femenino");
+	}
+	else{
+			printf("\nEl genero es másculino");
+	}
+
 	return 0;
 
 }
